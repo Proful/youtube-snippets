@@ -1,1 +1,0 @@
-/Users/sanvi/all/code/github/youtube-snippets/rust-ex/target/debug/11: /Users/sanvi/all/code/github/youtube-snippets/rust-ex/src/bin/11/agetrait.rs /Users/sanvi/all/code/github/youtube-snippets/rust-ex/src/bin/11/main.rs /Users/sanvi/all/code/github/youtube-snippets/rust-ex/src/bin/11/user.rs
