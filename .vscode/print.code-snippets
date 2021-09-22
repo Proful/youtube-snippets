@@ -1,0 +1,10 @@
+{
+  "print": {
+    "scope": "rust",
+    "prefix": "print",
+    "body": [
+      "cyan_ln!(\"[main$1] $2 = {}\", $3);"
+    ],
+    "description": "colored print"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "string declare": {
+    "scope": "rust",
+    "prefix": "string-declare",
+    "body": [
+      "let $1 = String::from(\"Proful$2\");"
+    ],
+    "description": "string declaration"
+  }
+}
