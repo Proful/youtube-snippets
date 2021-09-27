@@ -1,10 +1,17 @@
 #![allow(warnings)]
 
-use colour::*;
-
 fn main() {
 
 }
+
+// ~ different struct types
+// ~ struct impl (fn, method, associated fn)
+// ~ enum, Option
+// ~ pattern matching for enum
+// ~ if let
+
+
+
 
 // ~ vaiables (immutable & mutable), constants
 // ~ scalar types (integer, foat, boolen, char)

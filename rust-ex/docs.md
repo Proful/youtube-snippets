@@ -40,3 +40,5 @@ cargo single run main.rs hello
     "editor.formatOnSave": true
   },
 ```
+alt+1 => move end
+cmd+k { => select all content inside curly bracket
