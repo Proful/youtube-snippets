@@ -31,3 +31,8 @@ fn main() {
 
 // Github: https://github.com/proful/youtube-snippets
 // Twitter: https://twitter.com/profulsadangi
+
+// packages => build, test & share crates
+// crates => tree of modules that produces exe or lib
+// modules => control org, scope & privacy of paths
+// paths => way of naming struct, fn, module
