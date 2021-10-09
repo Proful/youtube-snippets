@@ -3,6 +3,13 @@
 fn main() {
 
 }
+//^ Lifetimes
+//- basics of scope & lifetimes
+//- borrowed vs owned data wrt lifetimes
+//- lifetimes annotation in fn defination
+//- how &str (string literal vs string slice) differs?
+//- struct & struct impl with lifetimes
+//- Lifetime Elision rules
 
 // ~ different struct types
 // ~ struct impl (fn, method, associated fn)
