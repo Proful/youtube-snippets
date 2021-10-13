@@ -1,0 +1,1 @@
+/Users/sanvi/all/code/github/youtube-snippets/minigrep/target/debug/minigrep: /Users/sanvi/all/code/github/youtube-snippets/minigrep/src/lib.rs /Users/sanvi/all/code/github/youtube-snippets/minigrep/src/main.rs

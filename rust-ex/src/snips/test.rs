@@ -3,6 +3,18 @@
 fn main() {
 
 }
+
+//^ Tesing in Rust
+//- Create lib project & discuss the default test
+//- assert functions
+//- failed test
+//- Testing struct impl
+//- Testing functions
+//- Handle intentional panic!
+//- ignore tests
+//- Test execution by default parallel
+//- Integration test
+
 //^ Lifetimes
 //- basics of scope & lifetimes
 //- borrowed vs owned data wrt lifetimes

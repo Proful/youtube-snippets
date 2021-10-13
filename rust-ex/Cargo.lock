@@ -210,7 +210,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-ex"
+name = "rustex"
 version = "0.1.0"
 dependencies = [
  "colour",
