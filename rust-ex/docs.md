@@ -42,3 +42,8 @@ cargo single run main.rs hello
 ```
 alt+1 => move end
 cmd+k { => select all content inside curly bracket
+
+
+## pronounciation
+dyn - din
+mut - miut (sounds good) or m^t

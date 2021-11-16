@@ -3,6 +3,12 @@
 fn main() {
 
 }
+//^ Iterator
+//- Iterating over normal vector vs using iterator
+//- usage of next
+//- iter, into_iter, iter_mut
+//- sum, map, collect
+//- implementing custom iterator
 
 //^ Tesing in Rust
 //- Create lib project & discuss the default test
