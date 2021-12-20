@@ -33,6 +33,11 @@ cargo install cargo-single
 cargo single run main.rs hello
 ```
 
+### cargo watch
+```
+cargo watch -c -q -x 'run -q'
+```
+
 
 ## vscode
 ```
