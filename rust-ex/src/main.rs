@@ -1,4 +1,4 @@
-#![allow(warnings)]  // NOT RECOMMENDED
+#![allow(warnings)] // NOT RECOMMENDED
 
 fn main() {
 
