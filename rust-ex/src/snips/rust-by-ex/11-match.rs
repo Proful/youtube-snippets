@@ -10,15 +10,15 @@ fn main() {
         _ => println!("something else"),
     }
 
-    let is_morning = false;
+    // let is_morning = false;
 
-    let msg = if is_morning {
-        "Good morning"
-    } else {
-        "Good night"
-    };
+    // let msg = if is_morning {
+    //     "Good morning"
+    // } else {
+    //     "Good night"
+    // };
 
-    dbg!(msg);
+    // dbg!(msg);
 
     let coordinate = (1, 8, 5);
 
