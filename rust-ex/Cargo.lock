@@ -706,6 +706,7 @@ dependencies = [
  "chrono",
  "colour",
  "hyper",
+ "hyper-tls",
  "rand",
  "reqwest",
  "serde",

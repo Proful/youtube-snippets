@@ -22,6 +22,7 @@ async fn main() {
     // dbg!(&resp.headers());
     // dbg!(&resp.version());
 
+    // dbg!(&response.body());
     let body = hyper::body::to_bytes(resp.body_mut()).await.unwrap();
     // dbg!(&body);
 
